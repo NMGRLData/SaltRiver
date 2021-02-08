@@ -223,117 +223,12 @@
         "value": 0.9986106533829017
     },
     "CDD": {
-        "error": 0.002062310024191207,
-        "fit": "Weighted Mean",
-        "references": [
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-629",
-                "uuid": "774a142e-7b4c-4c84-9225-cced18d218de"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-630",
-                "uuid": "c6107e32-aa4b-4620-b536-4d1fcb98adc9"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-631",
-                "uuid": "2cee4e78-2cd1-4982-b2bf-91930a9b0e71"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-632",
-                "uuid": "a47119e8-639a-4a68-8ed8-a3c82621cd02"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-633",
-                "uuid": "68cefaf4-e313-443f-8e73-1ea535c3ecb5"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-634",
-                "uuid": "ed240bf4-85d9-40a8-9fe0-2fc7883f7466"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-635",
-                "uuid": "68b5de60-c1d9-42b2-ba22-fbe29aa31287"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-02-J-636",
-                "uuid": "6ba87777-0e10-4d2e-a42d-64f585af55af"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-637",
-                "uuid": "0bf4e07d-baf8-4d18-8fb7-f674725b0e7f"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-02-J-638",
-                "uuid": "5624e6be-a6fc-4397-bb26-e877acf6d29b"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-639",
-                "uuid": "f095f489-c159-4017-bf77-d790b75d53fa"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-640",
-                "uuid": "5778235e-b2c7-4ad5-a8ed-1782d08730f2"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-641",
-                "uuid": "1cf4a2ff-cb78-43fc-bd22-ff184cf26c40"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-642",
-                "uuid": "81f35954-a213-427a-8f7f-382065306e66"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-643",
-                "uuid": "79c66231-35fa-4299-be95-6f7c7642c58e"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-644",
-                "uuid": "26163cee-6d9e-4c82-8a74-ac4954172d79"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-645",
-                "uuid": "e10fd06c-d98f-44df-ae64-de4e66b06f48"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-646",
-                "uuid": "0eca4ca4-7410-47e7-bc62-5a9608463696"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-647",
-                "uuid": "53299700-8ba5-4838-8e05-1714e8511d4d"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-648",
-                "uuid": "30ec6fda-89ca-480a-baaf-01c92010e822"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-649",
-                "uuid": "1f4de733-8d62-485f-9ab5-25e1b22ea0af"
-            }
-        ],
+        "error": 0.002048351919120539,
+        "fit": "bulk_edit",
+        "references": "",
         "reviewed": true,
-        "value": 1.0021304850943868
+        "scalar": 0.9932318104906938,
+        "value": 0.9953478760582151
     },
     "H1": {
         "error": 0.0,

@@ -28,10 +28,11 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.0008586,
-        "fit": "mass_spec_imported",
+        "error": 0.0008527888324873097,
+        "fit": "bulk_edit",
         "references": "",
-        "reviewed": false,
-        "value": 1.024535
+        "reviewed": true,
+        "scalar": 0.9932318104906938,
+        "value": 1.0176007529610829
     }
 }
